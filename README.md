@@ -2,7 +2,7 @@
 
 _unhacked_ is a weekly ctf, giving whitehats the chance to go back in time before real exploits and recover funds before the bad guys get them. 
 
-you are a whitehat, right anon?
+_you are a whitehat, right anon?_
 
 ## meet reaper
 
