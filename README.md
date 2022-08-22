@@ -1,14 +1,10 @@
 ## welcome to unhacked
 
-post-paradigm ctf, things feel a little dull, don't they? 
+_unhacked_ is a weekly ctf, giving whitehats the chance to go back in time before real exploits and recover funds before the bad guys get them. 
 
-what do you say we bring some of that energy back into normal life?
-
-_unhacked_ is a just-for-fun weekly challenge where you get a chance to go back in time before real exploits were committed to recover the funds. you are a whitehat, right anon?
+you are a whitehat, right anon?
 
 ## meet reaper
-
-after a weekend of brain pain, let's start things off on easy mode.
 
 [reaper farm](https://www.reaper.farm/) is a yield aggregator on fantom. their V2 vaults were hacked on 8/2.
 
@@ -30,3 +26,7 @@ review the code in this repo, find the exploit, and recover > $400k.
 4. when you find an exploit, code it up in `ReaperHack.t.sol`. the test will pass if you succeed.
 
 5. post on twitter for bragging rights and tag [@unhackedctf](http://twitter.com/unhackedctf). no cheating.
+
+## subscribe
+
+for new weekly challenges and solutions, subscribe to the [unhacked newsletter](https://unhackedctf.substack.com/publish/post/69864558).
