@@ -27,4 +27,4 @@ review the code in this repo, find the exploit, and recover > $400k.
 
 3. when you find an exploit, code it up in `ReaperHack.t.sol`. the test will pass if you succeed.
 
-4. post on twitter for bragging rights and tag @unhackedctf. no cheating.
+4. post on twitter for bragging rights and tag [@unhackedctf](http://twitter.com/unhackedctf). no cheating.
