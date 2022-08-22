@@ -6,3 +6,7 @@ out/
 !/broadcast
 /broadcast/*
 /broadcast/*/31337/
+
+# Files that include solution
+js/
+test/ReaperHackSolution.t.sol
