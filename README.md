@@ -21,10 +21,12 @@ review the code in this repo, find the exploit, and recover > $400k.
 
 ## how to play
 
-1. update the .env file with an environment variable for FANTOM_RPC (already preset to the public RPC endpoint, which should work fine, in which case you can skip this).
+1. fork this repo and clone it locally.
 
-2. review the code in the `src/` folder, which contains all the code at the time of the hack. you can explore the state of the contract before the hack using block 44000000. ex: `cast call --rpc-url ${FANTOM_RPC} --block 44000000 0x77dc33dC0278d21398cb9b16CbFf99c1B712a87A "totalAssets()" | cast 2d`
+2. update the .env file with an environment variable for FANTOM_RPC (already preset to the public RPC endpoint, which should work fine, in which case you can skip this).
 
-3. when you find an exploit, code it up in `ReaperHack.t.sol`. the test will pass if you succeed.
+3. review the code in the `src/` folder, which contains all the code at the time of the hack. you can explore the state of the contract before the hack using block 44000000. ex: `cast call --rpc-url ${FANTOM_RPC} --block 44000000 0x77dc33dC0278d21398cb9b16CbFf99c1B712a87A "totalAssets()" | cast 2d`
 
-4. post on twitter for bragging rights and tag [@unhackedctf](http://twitter.com/unhackedctf). no cheating.
+4. when you find an exploit, code it up in `ReaperHack.t.sol`. the test will pass if you succeed.
+
+5. post on twitter for bragging rights and tag [@unhackedctf](http://twitter.com/unhackedctf). no cheating.
