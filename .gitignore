@@ -9,4 +9,4 @@ out/
 
 # Files that include solution
 js/
-test/ReaperHackSolution.t.sol
+# test/ReaperHackSolution.t.sol
