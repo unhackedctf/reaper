@@ -27,6 +27,10 @@ review the code in this repo, find the exploit, and recover > $400k.
 
 5. post on twitter for bragging rights and tag [@unhackedctf](http://twitter.com/unhackedctf). no cheating.
 
+## solution
+
+this contest is no longer live. [you can read a write up of the solution here](https://unhackedctf.substack.com/p/unhacked-week-2) or find the solution code in `test/ReaperHackSolution.t.sol`.
+
 ## subscribe
 
 for new weekly challenges and solutions, subscribe to the [unhacked newsletter](https://unhackedctf.substack.com/publish/post/69864558).
