@@ -33,4 +33,4 @@ this contest is no longer live. [you can read a write up of the solution here](h
 
 ## subscribe
 
-for new weekly challenges and solutions, subscribe to the [unhacked newsletter](https://unhackedctf.substack.com/publish/post/69864558).
+for new weekly challenges and solutions, subscribe to the [unhacked newsletter](https://unhackedctf.substack.com/p/welcome).
